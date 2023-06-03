@@ -1,1 +1,10 @@
-/*# sourceMappingURL=index.css.map */
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-container {
+  width: 100%;
+  min-width: 320px;
+  max-width: 1440px;
+}/*# sourceMappingURL=index.css.map */

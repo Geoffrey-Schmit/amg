@@ -1,0 +1,19 @@
+$bg-color: #252324;
+$main-color: #6c2282;
+$border-color: #3cdcea;
+$card-color: #dc2e86;
+
+$main-font: 'Roboto', sans-serif;
+$title-font: 'Fascinate Inline', cursive;
+$btn-font: 'Aclonica', sans-serif;
+
+* {
+    margin: 0;
+    font-family: $main-font;
+}
+
+.main-container {
+    width: 100%;
+    min-width: 320px;
+    max-width: 1440px;
+}
